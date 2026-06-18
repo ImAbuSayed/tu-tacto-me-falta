@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-tacto-me-falta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tu tacto me falta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-me-falta/) |
+| **Get License** | [Request Licensing for Tu tacto me falta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-me-falta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú sabes que la noche no se hizo pa' dormir, yeah
+> Me tienes dando vueltas, ya no sé ni adónde ir
+> Tu tacto me falta y me quema en la piel
+> Si apagamos las luces, te llevo a otro nivel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
