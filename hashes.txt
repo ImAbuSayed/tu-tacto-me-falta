@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu tacto me falta
+
+This log tracks the cryptographic history and versioning for the song **Tu tacto me falta** (tu-tacto-me-falta).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T20:19:30.508676 | `v1` | `254c453d9555fcbd96a413788a275fae4780d595f9d3880eda8827c1d10c073f` | `b26cf99341c9339f422c94c1ff8dc76fe4bd510a46de022c44da1f4356d18f0d` | `2026-06-18_tu-tacto-me-falta-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
